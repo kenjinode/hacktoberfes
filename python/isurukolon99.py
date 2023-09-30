@@ -7,4 +7,3 @@ for num in range(1, max + 1):
         Oddtotal = Oddtotal + num
         
 print("Sum of odd numbers from 1 to {0} = {1}".format(num, Oddtotal))
-        

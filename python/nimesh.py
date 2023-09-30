@@ -2,6 +2,7 @@
 
 def sum_of_two_numbers(number_1, number_2):
     return number_1 + number_2
+    
 
 first_number = int(input("Enter First Number : "))
 
